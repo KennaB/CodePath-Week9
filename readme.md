@@ -1,4 +1,4 @@
-# ![](computer.gif | 250x250) Project 8 - Pentesting Live Targets ![](computer.gif | 250x250)
+# ![](computer.gif) Project 8 - Pentesting Live Targets ![](computer.gif)
 
 > Objective: 
 
