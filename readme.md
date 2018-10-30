@@ -31,6 +31,6 @@ Here are some:
 
 There is so much data, it definitely warrants further investigations. An obvious inquiry would be: how many IP addresses are recurring?
 
-I did not include screenshots regarding which country attacks originating from. I used a VPN when scanning these; I would expect no less of someone who is actually attempting to exploit.
+I did not include screenshots regarding which country attacks originated from. I used a VPN when scanning these; I would expect no less of someone who is actually attempting to exploit.
 
 Microsoft Azure is hosting my honeypots; their student program offers free hosting. I look forward to observing attack trends for the next several months.
