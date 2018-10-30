@@ -1,4 +1,4 @@
-# ![](computer.gif){:height="75px" width="75px"} Project 8 - Pentesting Live Targets ![](computer.gif){:height="75px" width="75px"}
+# ![](computer.gif|100x100) Project 8 - Pentesting Live Targets ![](computer.gif|100x100)
 
 > Objective: 
 
